@@ -1,5 +1,5 @@
 
-# Functional analysis of differentially expressed genes in Eucalyptus grandis subject to control and droughted conditions
+# Functional analysis of differentially expressed genes associated with xylem physiological responses in E. grandis subject to control and droughted conditions.
 # Author: Rafael Keret
 
 # REFERENCES
