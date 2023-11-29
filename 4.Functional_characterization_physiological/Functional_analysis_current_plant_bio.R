@@ -126,6 +126,7 @@ gseGO <- GSEA(genes,
               eps = 0)
 
 gse_DF <- as.data.frame(gseGO)
+write.csv(gse_DF, file = "./Data/output/gsea_Eucalyptus.csv", row.names = FALSE)
 
 # HISTOGRAM OF RELEVANT / NON-REDUNDANT ENRICHED CATEGORIES
 
