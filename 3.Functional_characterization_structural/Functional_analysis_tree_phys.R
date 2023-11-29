@@ -1,5 +1,5 @@
 
-# Functional analysis of the differentially expressed genes occurring in E. grandis xylem during drought.
+# Functional analysis of the differentially expressed genes related to xylem structure or differentiation in E. grandis during drought.
 # Author: Rafael Keret
 
 # REFERENCES
