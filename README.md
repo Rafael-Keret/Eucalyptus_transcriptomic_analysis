@@ -4,7 +4,7 @@ Experiments were conducted to determine how drought induced transcriptomic remod
 
 This repository contains the following folders: 
 
-1. DESeq2 - Annotated R code and relevant data to perform differential expression analysis on the _E. grandis_ gene set.
+1. DESeq2 - Annotated R code and relevant data to perform differential expression analysis on the _E. grandis_ droughted and well-watered (control) transcriptomes.
 2. Gene_annotation - Relevant R code required to annotate the _E. grandis_ ENTREZ IDs with gene ontology, functional descriptions and symbols using _Arabidopsis thaliana_ orthologs.
 3. Functional_characterization_structural - Performing gene set enrichment analysis and identifying the gene expression candidates responsible for controlling the developmental or structural xylem anatomical traits in _E. grandis_.
 4. Functional_characterization_physiological - Performing gene set enrichment analysis and identifying the gene expression candidates responsible for controlling the physiological processes occuring in the xylem of drought stressed _E. grandis_.
